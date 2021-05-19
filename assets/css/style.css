@@ -3,8 +3,8 @@
 # General
 --------------------------------------------------------------*/
 body {
-/*  font-family: "Open Sans", sans-serif;*/
-font-family:monospace;
+  font-family: "Open Sans", sans-serif;
+/*font-family:monospace;*/
     color: #272829;
 }
 
@@ -19,8 +19,8 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family:monospace;
-/*  font-family: "Raleway", sans-serif;*/
+/*    font-family:monospace;*/
+  font-family: "Raleway", sans-serif;
 }
 
 
@@ -96,7 +96,7 @@ lawis custom scrollbar
   background: -webkit-linear-gradient(to right, #ed213a, #93291e); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to bottom, #b20000, #200122);
   overflow-y: auto;
-    box-shadow: 3px 0px 15px -2px rgba(0,0,0,0.7);
+/*    box-shadow: 3px 0px 15px -2px rgba(0,0,0,0.7);*/
 }
 
 #header .profile img {
@@ -188,7 +188,7 @@ background: white;
   margin-bottom: 8px;
   transition: 0.3s;
   font-size: 17px;
-    font-family:monospace;
+/*    font-family:monospace;*/
     border-radius:5px;
 }
 
